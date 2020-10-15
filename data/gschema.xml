@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema path="/com/github/charchatzo/LinuxGameHub/" id="com.github.charchatzo.LinuxGameHub">
+    <key name="lastwinegame" type="s">
+      <default>"dsd"</default>
+      <summary>Last wine game</summary>
+      <description>Last wine game used</description>
+    </key>
+    <key name="lastoriginpath" type="s">
+      <default>"dsd"</default>
+      <summary>Last origin path</summary>
+      <description>Last origin path used</description>
+    </key>
+  </schema>
+</schemalist>
